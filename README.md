@@ -10,6 +10,25 @@ The naming convention is as follows:
 
 `{year} D{questionDate} P{part1or2}` for example `2021D3P1`.
 
+## Quick link to questions and solutions
+
+2021 Day 1 Part 1 [Question](https://adventofcode.com/2021/day/1) and my [Solution](2021D1P1/main.cpp)
+
+2021 Day 1 Part 2 [Question](https://adventofcode.com/2021/day/1#part2) and my [Solution](2021D1P2/main.cpp)
+
+-
+
+2021 Day 2 Part 1 [Question](https://adventofcode.com/2021/day/2) and my [Solution](2021D2P1/main.cpp)
+
+2021 Day 2 Part 2 [Question](https://adventofcode.com/2021/day/2#part2) and my [Solution](2021D2P2/main.cpp)
+
+-
+
+2021 Day 3 Part 1 [Question](https://adventofcode.com/2021/day/3) and my [Solution](2021D3P1/main.cpp)
+
+2021 Day 3 Part 2 [Question](https://adventofcode.com/2021/day/3#part2) and my [Solution](2021D3P2/main.cpp)
+
+-
 
 2021 Day 4 Part 1 [Question](https://adventofcode.com/2021/day/4) and my [Solution](2021D4P1/main.cpp)
 
